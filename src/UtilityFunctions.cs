@@ -260,7 +260,7 @@ static class UtilityFunctions
 	/// <param name="col">Col.</param>
 	public static void AddExplosion(int row, int col)
 	{
-		AddAnimation(row, col, "Splash");
+		AddAnimation(row, col, "Explosion");
 	}
 
 	/// <summary>
